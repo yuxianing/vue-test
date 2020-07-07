@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <count :num="1"/>
+    <router-view></router-view>
   </div>
 </template>
 
