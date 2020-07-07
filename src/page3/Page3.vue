@@ -1,7 +1,6 @@
 <template>
   <div>
-    这是page2
-    <router-view/>
+    这是page3
   </div>
 </template>
 <script>
